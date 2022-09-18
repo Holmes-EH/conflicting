@@ -1,3 +1,3 @@
 # conflicting
 
-## A repo to play around with confilcts 🔥
+## A repo to play around with conflicts 🔥
